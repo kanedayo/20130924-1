@@ -38,6 +38,13 @@ Sample table
 
 これだけしかないので、自由に拡張しましょう
 
+### haml
+
+先週の勉強会ではhamlをやっているので、今回の表示部分はhamlを使っています。
+
+- [Haml](http://haml.info/)
+- [Haml入門](http://dotinstall.com/lessons/basic_haml)
+
 ## おわりに
 
 株式会社wEVAではryukyu.rbとして、毎週火曜日（月曜日）の19:00〜 RubyやRails、Sinatraの勉強会を沖縄県浦添市で開催しています。興味のある方はぜひグループに参加してイベントに参加よろしくお願いします。
