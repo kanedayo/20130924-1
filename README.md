@@ -8,7 +8,7 @@
 
 以下のサイトも参考になります
 
-[Sinatra: README (Japanese)](http://www.sinatrarb.com/intro-jp.html)
+- [Sinatra: README (Japanese)](http://www.sinatrarb.com/intro-jp.html)
 
 ### このリポジトリの内容
 
