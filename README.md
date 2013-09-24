@@ -24,15 +24,19 @@ http://0.0.0.0:5000
 
 ## 仕様
 
+- sinatra
 - sqlite
+- haml
 
 ### DB構造
 
 Sample table
 
-|field||
+|field|詳細|
 |-----|-----|
 |title|text|
+
+これだけしかないので、自由に拡張しましょう
 
 ## おわりに
 
