@@ -10,6 +10,18 @@
 
 [Sinatra: README (Japanese)](http://www.sinatrarb.com/intro-jp.html)
 
+### このリポジトリの内容
+
+Sinatraが動作する必要最低限の構成を収録しておきました。
+
+``` foreman start ```
+
+で実行できます。サーバーが起動したら
+
+http://0.0.0.0:5000
+
+を開いてください。
+
 ## おわりに
 
 株式会社wEVAではryukyu.rbとして、毎週火曜日（月曜日）の19:00〜 RubyやRails、Sinatraの勉強会を沖縄県浦添市で開催しています。興味のある方はぜひグループに参加してイベントに参加よろしくお願いします。
