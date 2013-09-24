@@ -19,8 +19,15 @@ class Sample < ActiveRecord::Base
 end
 
 get '/' do
-    name = ENV['NAME']
-    @message = "Hello, " << name
-    @bbs = Sample.all
-    haml:HelloWorld
+  @bbs = Sample.all
+  haml:bbs
+end
+
+post '/' do
+  title = params[:title]
+  Sample.create(
+    :title => title
+    )
+  @bbs = Sample.all
+  haml:bbs
 end
